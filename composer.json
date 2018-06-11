@@ -1,10 +1,10 @@
 {
-  "name": "laravel/lumen",
+  "name": "hwmc/auth",
   "description": "The Laravel Lumen Framework.",
   "keywords": [
     "framework",
-    "laravel",
-    "lumen"
+    "auth",
+    "hwmc"
   ],
   "license": "MIT",
   "type": "project",
